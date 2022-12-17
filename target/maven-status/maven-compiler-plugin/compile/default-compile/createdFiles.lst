@@ -1,7 +1,0 @@
-com\pages\HomePage.class
-SeleniumSample.class
-com\factory\DriverFactory.class
-com\pages\LoginPage.class
-com\util\Constants.class
-com\util\ConfigReader.class
-com\util\ElementUtil.class

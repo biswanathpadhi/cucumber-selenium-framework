@@ -1,4 +1,0 @@
-com\testrunners\TestRunner.class
-com\stepdefinitions\HomePageStepDefinition.class
-com\hooks\ApplicationHooks.class
-com\stepdefinitions\LoginPageStepDefinition.class
